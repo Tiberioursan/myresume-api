@@ -11,9 +11,9 @@
   "education": [
     {
       "id": 0,
-      "school": "University of Graphicone",
-      "date": "October 2013 - March 2025",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut liber000."
+      "school": "IT og Økonomisk videregående",
+      "date": "September 2006 - July 2011",
+      "description": "Markedsføring, Økonomi, Regnskap, Bedriftsledelse og kontroll, Forbedring av selskapets IT-Systemere og IT-Sikkerhet og IT-programmering."
     },
     {
       "id": 1,
