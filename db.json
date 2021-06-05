@@ -11,21 +11,33 @@
   "education": [
     {
       "id": 0,
-      "school": "IT og Økonomisk videregående",
+      "school": "ITCG E.Fermi, Pontedera (PI), Italia",
       "date": "September 2006 - July 2011",
-      "description": "Markedsføring, Økonomi, Regnskap, Bedriftsledelse og kontroll, Forbedring av selskapets IT-Systemere og IT-Sikkerhet og IT-programmering."
+      "description": "IT og Økonomisk videregående: Markedsføring, Økonomi, Regnskap, Bedriftsledelse og kontroll, Forbedring av selskapets IT-Systemere og IT-Sikkerhet og IT-programmering."
     },
     {
       "id": 1,
-      "school": "University of Graphics",
-      "date": "October 2011 - March 2013",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut libero."
+      "school": "ITCG E.Fermi, Pontedera (PI), Italia",
+      "date": "November 2011 - April 2012",
+      "description": "Progetto IFTS, logistikkurs: hadde som fokus å trene et høyt kvalifisert profesjonell skikkelse som kan håndtere de forskjellige logistikkfasene ved å bruke de mest passende verktøyene."
     },
     {
       "id": 2,
-      "school": "University of Graphics",
-      "date": "October 2009 - March 2011",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut libero."
+      "school": "Formatica SRL (Pisa) med Universitetet i Pisa",
+      "date": "April 2012 - November 2012",
+      "description": "Corso SAW (Sviluppo Applicazioni Web) - Web-App utvikler: hadde som fokus å trene en profesjonell figur i nettbransjen som kan bruke programmeringsspråk: HTML, CSS, JS, PHP, SQL og Adobe-pakken."
+    },
+    {
+      "id": 3,
+      "school": "Coursera - John Hopkins University",
+      "date": "December 2020 - January 2021",
+      "description": "HTML, CSS and JS for Web Developers: Kursfokus - lære å implementere moderne websider med HTML, CSS og JS å bli i stand til å kode nettsider som er responsive og klare for å bruke på alle slags enheter."
+    },
+    {
+      "id": 4,
+      "school": "Coursera - Hong Kong University",
+      "date": "February 2021 - April 2021",
+      "description": "Full-Stack Web Development with React: Kursfokus - lære front-end og hybrid mobilutvikling, med serversidesupport, for implementering av en løsning med flere plattformer."
     }
   ],
   "experience": [
