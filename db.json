@@ -12,7 +12,7 @@
     {
       "id": 0,
       "school": "ITCG E.Fermi, Pontedera (PI), Italia",
-      "date": "September 2006 - July 2011",
+      "date": "September 2006 - Juli 2011",
       "description": "IT og Økonomisk videregående: Markedsføring, Økonomi, Regnskap, Bedriftsledelse og kontroll, Forbedring av selskapets IT-Systemere og IT-Sikkerhet og IT-programmering."
     },
     {
@@ -30,13 +30,13 @@
     {
       "id": 3,
       "school": "Coursera - John Hopkins University",
-      "date": "December 2020 - January 2021",
+      "date": "Desember 2020 - Januar 2021",
       "description": "HTML, CSS and JS for Web Developers: Kursfokus - lære å implementere moderne websider med HTML, CSS og JS å bli i stand til å kode nettsider som er responsive og klare for å bruke på alle slags enheter."
     },
     {
       "id": 4,
       "school": "Coursera - Hong Kong University",
-      "date": "February 2021 - April 2021",
+      "date": "Februar 2021 - April 2021",
       "description": "Full-Stack Web Development with React: Kursfokus - lære front-end og hybrid mobilutvikling, med serversidesupport, for implementering av en løsning med flere plattformer."
     }
   ],
@@ -44,21 +44,21 @@
     {
       "id": 0,
       "role": "Graphic designer",
-      "date": "October 2013 - March 2015",
+      "date": "Oktober 2013 - Mars 2015",
       "company": "Lorem Ipsum, Inc.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut libero."
     },
     {
       "id": 1,
       "role": "Web Designer",
-      "date": "October 2013 - March 2015",
+      "date": "Oktober 2013 - Mars 2015",
       "company": "Illy",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut libero."
     },
     {
       "id": 2,
       "role": "Designer",
-      "date": "October 2009 - March 2011",
+      "date": "Oktober 2009 - Mars 2011",
       "company": "Loremorum & Co",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et pulvinar ligula. Praesent maximus ornare quam, id consectetur dui eleifend nec. Nam consectetur orci id nulla varius, quis facilisis dui vulputate. Sed ultrices eu erat non mollis. Phasellus ut libero."
     }
